@@ -8,6 +8,14 @@ This project is an advanced To-Do application that incorporates modern features 
 
 ## **Screenshots**
 
+1. **Desktop View**  
+![First Screenshot](./Assets/Screenshot1.png)
+2. **Smartphone View**    
+![First Screenshot](./Assets/Screenshot2.png)
+3. **Tablet View**  
+![First Screenshot](./Assets/Screenshot3.png)
+4. **SignIn Page**  
+![Forth Screenshot](./Assets/Screenshot4.png)
 
 ---
 
@@ -125,5 +133,10 @@ npm test
 
 #### Authentication
 - Login to access and manage tasks. Logout to secure your session.
+
+---
+> **Note:** Credentials for mock authentication:  
+Email= user@example.com  
+password= password123
 
 ---
