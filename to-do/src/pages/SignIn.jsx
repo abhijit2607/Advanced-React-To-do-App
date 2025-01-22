@@ -119,7 +119,7 @@ export default function SignIn() {
             <CssBaseline enableColorScheme />
             <SignInContainer direction="column" justifyContent="space-between">
                 <Card variant="outlined">
-                    <SitemarkIcon />
+                    <img className='w-1/4' src='./Container.png' alt='Container' />
                     <Typography
                         component="h1"
                         variant="h4"
