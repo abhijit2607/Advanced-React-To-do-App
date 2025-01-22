@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Advanced-React-To-do-App/static/css/main.3bd8288e.css",
-    "main.js": "/Advanced-React-To-do-App/static/js/main.ae410665.js",
+    "main.js": "/Advanced-React-To-do-App/static/js/main.acae1989.js",
     "static/js/462.ba706d23.chunk.js": "/Advanced-React-To-do-App/static/js/462.ba706d23.chunk.js",
     "index.html": "/Advanced-React-To-do-App/index.html",
     "main.3bd8288e.css.map": "/Advanced-React-To-do-App/static/css/main.3bd8288e.css.map",
-    "main.ae410665.js.map": "/Advanced-React-To-do-App/static/js/main.ae410665.js.map",
+    "main.acae1989.js.map": "/Advanced-React-To-do-App/static/js/main.acae1989.js.map",
     "462.ba706d23.chunk.js.map": "/Advanced-React-To-do-App/static/js/462.ba706d23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bd8288e.css",
-    "static/js/main.ae410665.js"
+    "static/js/main.acae1989.js"
   ]
 }
