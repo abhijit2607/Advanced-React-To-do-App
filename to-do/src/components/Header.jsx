@@ -19,23 +19,23 @@ const Header = () => {
       </div>
       <div className="flex items-center space-x-4">
         <img
-          className="cursor-pointer w-6 h-6 hover:scale-110 transition-transform duration-150"
+          className="nav-icons"
           src={`${process.env.PUBLIC_URL}/search.svg`}
           alt="Search Icon"
         />
         <img
-          className="cursor-pointer w-6 h-6 hover:scale-110 transition-transform duration-150"
+          className="nav-icons"
           src={`${process.env.PUBLIC_URL}/grid-view.svg`}
           alt="Grid View Icon"
         />
         <img
-          className="cursor-pointer w-6 h-6 hover:scale-110 transition-transform duration-150"
+          className="nav-icons"
           src={`${process.env.PUBLIC_URL}/dark-theme.svg`}
           alt="Dark Theme Icon"
         />
         <button
           onClick={handleLogout}
-          className="text-red-500 hover:text-red-600 transition-colors duration-150"
+          className="text-red-500 hover:text-red-700 transition-colors duration-150"
         >
           Logout
         </button>
